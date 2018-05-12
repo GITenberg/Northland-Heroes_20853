@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9566'
     url: http://www.gutenberg.org/2009/agents/9566
 description: The story of Fridtjof. -- The story of Beowulf.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20853#Northland-Heroes
 gutenberg_issued: '2007-03-20'
 gutenberg_type: Text
 identifiers:
